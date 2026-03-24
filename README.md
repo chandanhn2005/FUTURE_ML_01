@@ -223,9 +223,9 @@ Possible improvements for the system:
 
 ## 👨‍💻 Author
 
-### Deepak Chakrasali
+### CHANDAN H N
 
 Machine Learning & AI Enthusiast
 
 ### GitHub
-https://github.com/Deepakchakra
+https://github.com/chandanhn2005
